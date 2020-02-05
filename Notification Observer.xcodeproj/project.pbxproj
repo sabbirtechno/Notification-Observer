@@ -12,6 +12,7 @@
 		3556EDF523EA716B0000EDDE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3556EDF323EA716B0000EDDE /* Main.storyboard */; };
 		3556EDF723EA71720000EDDE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3556EDF623EA71720000EDDE /* Assets.xcassets */; };
 		3556EDFA23EA71720000EDDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3556EDF823EA71720000EDDE /* LaunchScreen.storyboard */; };
+		3556EE0223EA75B90000EDDE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3556EE0123EA75B90000EDDE /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3556EDF623EA71720000EDDE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3556EDF923EA71720000EDDE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3556EDFB23EA71720000EDDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3556EE0123EA75B90000EDDE /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				3556EDEF23EA716B0000EDDE /* AppDelegate.swift */,
 				3556EDF123EA716B0000EDDE /* ViewController.swift */,
 				3556EDF323EA716B0000EDDE /* Main.storyboard */,
+				3556EE0123EA75B90000EDDE /* SecondViewController.swift */,
 				3556EDF623EA71720000EDDE /* Assets.xcassets */,
 				3556EDF823EA71720000EDDE /* LaunchScreen.storyboard */,
 				3556EDFB23EA71720000EDDE /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3556EE0223EA75B90000EDDE /* SecondViewController.swift in Sources */,
 				3556EDF223EA716B0000EDDE /* ViewController.swift in Sources */,
 				3556EDF023EA716B0000EDDE /* AppDelegate.swift in Sources */,
 			);
